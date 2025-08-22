@@ -10,11 +10,11 @@ In dieser Lernperiode möchte ich mich auf die Praktika suche fokusieren und eig
 
 ## 15.08.25
 - [ ] Stellenausschreibungen finden
-- [ ] Bewerbung für Strichpunkt schrieben
-- [ ] Bewerbung für 
+- [ ] Bewerbung für Strichpunkt schreiben
+- [ ] Bewerbung für Tocco schreiben
 
 ## Reflexion
-
+Heute habe ich mich rein für Praktikums interessiert, weil ich es wichtig finde mich so viel wie möglich zu bewerben. Ich möchte eventuell bald noch ein Projekt programmieren aber das kann ich auch in der Freizeit machen.
 
 ## 22.08.25
 - [ ] Stellenausschreibungen finden
