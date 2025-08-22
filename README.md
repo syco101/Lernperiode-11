@@ -8,11 +8,17 @@ In dieser Lernperiode möchte ich mich auf die Praktika suche fokusieren und eig
 # Noten in dieser Periode:
 
 
-## 02.05.25
+## 15.08.25
 - [ ] Stellenausschreibungen finden
-- [ ] 
-- [ ]  
+- [ ] Bewerbung für Strichpunkt schrieben
+- [ ] Bewerbung für 
 
 ## Reflexion
 
 
+## 22.08.25
+- [ ] Stellenausschreibungen finden
+- [ ] Bewerbung für 
+- [ ]  
+
+## Reflexion
