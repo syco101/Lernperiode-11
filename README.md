@@ -18,7 +18,7 @@ Heute habe ich mich rein für Praktikums interessiert, weil ich es wichtig finde
 
 ## 22.08.25
 - [ ] Stellenausschreibungen finden
-- [ ] Bewerbung für 
-- [ ]  
+- [ ] Bewerbung für VZ fertig schreiben und machen
+- [ ] SwissBankin Bewerbung fertig machen.
 
 ## Reflexion
